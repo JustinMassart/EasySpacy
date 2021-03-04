@@ -6,6 +6,16 @@ Ce repo fait office du dossier concernant le projet scolaire visant à faire un 
 pour ce projet est un projet de vulgarisation scientifique d'astrophysique déjà présent sur
 Instagram (https://www.instagram.com/easyspacy/).
 
+## Lien vers Milanote :
+
+https://app.milanote.com/1Ld3kQ1FRpGb6a?p=HjrUqDPS0iw
+
+## Liens vers les moodboards :
+
+Behance : https://www.behance.net/collection/182495415/EasySpacy
+
+Awwwards : https://www.awwwards.com/Justin_Massart/collections/easyspacy/
+
 # Stratégie
 
 ## La page d’accueil
@@ -49,7 +59,7 @@ Instagram (https://www.instagram.com/easyspacy/).
 - Une navigation.
 - Un slider.
 - Du texte.
-- Des petites illsutrations.
+- Des petites illustrations.
 
 #### Barre de recherche
 
@@ -152,8 +162,12 @@ Instagram (https://www.instagram.com/easyspacy/).
 
 #### Bouton
 
-- Le bouton sert à envoyer le message.
+- Le bouton sert à envoyer le formulaire. Un message s'affiche pour dire si le formulaire s'est bien envoyé.
 
 #### Deux petites illustrations de personnages
 
 - Les deux illustrations sont dans le même style que celles fournies et font un petit signe de la main ou autre.
+
+## WordPress
+
+Un système d'administration en ligne vous permettra de vous occuper du site, ajouter/supprimer/modifier ce que vous voulez dans les capsules et les textes du site. Sans modifier le gros du contenu.
