@@ -24,7 +24,7 @@ Awwwards : https://www.awwwards.com/Justin_Massart/collections/easyspacy/
 
 - Une barre de recherche.
 - Une navigation.
-- Un arrière-plan sur le header sur toutes les pages (le motif de fusée).
+- Un arrière-plan sur l'en-tête sur toutes les pages (le motif de fusée).
 - Des capsules.
 
 #### Barre de recherche
