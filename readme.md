@@ -76,8 +76,7 @@ Awwwards : https://www.awwwards.com/Justin_Massart/collections/easyspacy/
 
 #### Textes
 
-- Pour le texte plus précis en dessous du slider, mettre des paragraphes une fois à gauche une fois à droite. (Mettre
-  des petites illustrations des postes dans le texte pour voir à quelles parties cela correspond ?).
+- Pour le texte plus précis en dessous du slider, c'est un bloc espacé (interligne) pour éviter de fatiguer l'utilisateur avec un texte tout collé.
 
 #### Illustrations
 
