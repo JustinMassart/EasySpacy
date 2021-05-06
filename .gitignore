@@ -1,0 +1,16 @@
+/*
+
+!/wp-content
+/wp-content/*
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/Portfolio
+/wp-content/themes/Portfolio/public/*
+
+!/Wireframe
+!/fonts
+!/couleurs
+!.gitignore
+!readme.md
+!package.json
+!webpack.mix.js
