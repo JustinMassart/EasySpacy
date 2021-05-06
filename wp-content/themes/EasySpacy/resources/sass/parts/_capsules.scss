@@ -1,0 +1,16 @@
+.capsules {
+
+  &__title {
+
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-shrink: 0;
+    flex-grow: 0;
+    flex-basis: auto;
+  }
+}

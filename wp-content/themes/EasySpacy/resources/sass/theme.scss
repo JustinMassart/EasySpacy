@@ -1,0 +1,48 @@
+@import 'reset';
+
+body {
+  background: #eaeaea;
+  position: relative;
+}
+
+.content {
+
+  &__wysiwyg {
+    font-size: 1.25em;
+    font-weight: bold;
+    color: #e0a100;
+    padding: 3.125em 0 3.125em 3.125em;
+
+  }
+}
+
+.sro {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+.end {
+  color: white;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  background: black;
+  display: block;
+  min-height: 3.125em;
+  text-align: center;
+
+  &__copyright {
+    display: inline-block;
+    margin: 0 auto;
+    padding-top: 1.0625em;
+  }
+}
+
+@import "parts/capsules";
+@import "parts/capsule";

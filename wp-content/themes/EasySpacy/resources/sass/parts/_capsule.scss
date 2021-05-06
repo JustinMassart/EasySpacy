@@ -1,0 +1,33 @@
+.capsule {
+  background: white;
+  border-radius: 10px;
+  width: 25em;
+  text-align: center;
+  display: inline-block;
+  margin-right: 1.875em;
+  margin-bottom: 1.875em;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+  &__title {
+    font-size: 1.5625em;
+    text-transform: uppercase;
+    padding-top: 0.625em;
+  }
+
+  &__info {
+    padding-top: 0.625em;
+
+  }
+
+  &__description {
+    padding: 5em 0;
+    background: black;
+    color: white;
+
+  }
+
+  &__term {
+    padding: 0.625em 0;
+  }
+
+}

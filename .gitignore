@@ -4,8 +4,10 @@
 /wp-content/*
 !/wp-content/themes
 /wp-content/themes/*
-!/wp-content/themes/Portfolio
-/wp-content/themes/Portfolio/public/*
+!/wp-content/themes/EasySpacy
+/wp-content/themes/EasySpacy/public/*
+
+/.idea
 
 !/Wireframe
 !/fonts
