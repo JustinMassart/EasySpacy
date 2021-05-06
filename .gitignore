@@ -7,7 +7,7 @@
 !/wp-content/themes/EasySpacy
 /wp-content/themes/EasySpacy/public/*
 
-/.idea
+!/.idea
 
 !/Wireframe
 !/fonts
